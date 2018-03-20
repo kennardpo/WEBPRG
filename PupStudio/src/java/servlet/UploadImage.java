@@ -99,6 +99,11 @@ public class UploadImage extends HttpServlet {
                            fileName + "<br>");
                         }
                     }
+                    
+                    RequestDispatcher requestDispatcher = request
+                    .getRequestDispatcher("/index2.html");
+            requestDispatcher.forward(request, response);
+            
                 out.println("</body>");
                 out.println("</html>");
                 }catch(Exception ex) {

@@ -34,7 +34,7 @@
   <!-- ################################################ NAVIGATION BAR ################################################ -->
   <nav id="nav-bar" class="navbar navbar-expand-lg navbar-dark bg-dark">
 		
-  <a id= "web-name" class="navbar-brand mb-0 h1" href="#"><img id = "web-icon" src="german-shepherd.svg" width="25" height="25" alt="">PupStudio</a>
+  <a id= "web-name" class="navbar-brand mb-0 h1" href="#"><img id = "web-icon" src="..\images\german-shepherd.svg" width="25" height="25" alt="">PupStudio</a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -57,7 +57,7 @@
 	
 	  <!-- Account -->
 	  <li class="nav-item active">
-		<a href="profile.html" class="nav-link"><i class="far fa-user"></i> Account</button></a>
+		<a href="profile.jsp" class="nav-link"><i class="far fa-user"></i> Account</button></a>
 	  </li>
 	  
       <!-- Upload -->
@@ -66,7 +66,7 @@
 	  </li>
       <!-- Logout -->
 	  <li class="nav-item active">
-		<a href="Home.html" class="nav-link"><i class="fas fa-sign-out-alt"></i> Log Out</button></a>
+		<a href="Home.jsp" class="nav-link"><i class="fas fa-sign-out-alt"></i> Log Out</button></a>
 	  </li>
   </div>
  

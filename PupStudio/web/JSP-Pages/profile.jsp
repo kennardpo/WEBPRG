@@ -34,7 +34,7 @@
   <!-- ################################################ NAVIGATION BAR ################################################ -->
   <nav id="nav-bar" class="navbar navbar-expand-lg navbar-dark bg-dark">
 		
-  <a id= "web-name" class="navbar-brand mb-0 h1" href="member.html"><img id = "web-icon" src="german-shepherd.svg" width="25" height="25" alt="">PupStudio</a>
+  <a id= "web-name" class="navbar-brand mb-0 h1" href="member.jsp"><img id = "web-icon" src="..\images\german-shepherd.svg" width="25" height="25" alt="">PupStudio</a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -57,11 +57,11 @@
 
       <!-- Upload -->
       <li class="nav-item active">
-		<a href="upload.html" class="nav-link"><i class="fas fa-plus"></i> Upload</button></a>
+		<a href="upload.jsp" class="nav-link"><i class="fas fa-plus"></i> Upload</button></a>
 	  </li>
       <!-- Logout -->
 	  <li class="nav-item active">
-		<a href="Home.html" class="nav-link"><i class="fas fa-sign-out-alt"></i> Log Out</button></a>
+		<a href="Home.jsp" class="nav-link"><i class="fas fa-sign-out-alt"></i> Log Out</button></a>
 	  </li>
   </div>
  
@@ -76,33 +76,64 @@
     <BR>
     <BR>
     Bryce Kennard Po uploaded:  <!-- insert name of who posted -->
+    <h3> Golden Retriever plus the Siberian Husky</h3>
     <!-- insert title of post -->
     <div class="profileContainer">
         <a href="edit.html">
     <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
     </a>
      <a href="edit.html">
-    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\HUSKY.jpg" >
     </a>
     
      <a href="edit.html">
-    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\huskyretriever.jpg" >
     </a>
     </div>
     <br>
     <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <br>
+     Bryce Kennard Po uploaded:  <!-- insert name of who posted -->
+    <h3> Bull Dog plus the Chihuahua</h3>
       <div class="profileContainer">
         <a href="edit.html">
-    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\bulldog.jpg" >
     </a>
      <a href="edit.html">
-    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\chihua.jpg" >
     </a>
     
      <a href="edit.html">
-    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\retriever.jpg" >
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\bulhua.jpg" >
     </a>
-         \
+         
+    </div>
+    
+      <br>
+    <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <br>
+     Bryce Kennard Po uploaded:  <!-- insert name of who posted -->
+    <h3> Corgi plus beagle</h3>
+    <div class="profileContainer">
+        <a href="edit.html">
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\corgi.jpg" >
+    </a>
+     <a href="edit.html">
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\beagle.jpg" >
+    </a>
+    
+     <a href="edit.html">
+    <img id="profileImage" class="img-fluid img-thumbnail" src="..\images\corgibeagle.jpg" >
+    </a>
+         
     </div>
 
 
